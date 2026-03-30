@@ -19,7 +19,7 @@ authors = [
     { name = "Ziheng Lu", email = "zihenglu@microsoft.com" },
 ]
 readme = "README.md"
-requires-python = ">=3.10"
+requires-python = "==3.10.*"
 classifiers = [
     "License :: OSI Approved :: MIT License",
     "Operating System :: OS Independent",
